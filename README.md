@@ -1,4 +1,4 @@
-# OpenSeaServerScraping
+# OpenSea Server Scraping
 A program written in Python using selenium web drivers to collect discord servers and floor prices associated with a NFT collection 
 
 Download the latest Chrome Drivers at https://chromedriver.chromium.org/downloads, outdated drivers will cause an error while executing code.
